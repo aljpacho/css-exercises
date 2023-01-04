@@ -1,0 +1,13 @@
+.odd {
+    background-color: lightcoral;
+    font-family: Verdana, sans-serif;
+}
+
+#number-2 {
+    color: blue;
+}
+
+#number-4 {
+    background-color: lightgreen;
+    font-weight: 500;
+}
